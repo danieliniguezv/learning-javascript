@@ -1,7 +1,7 @@
 // Array con los 12 meses del año.
 var meses = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
 
-// Despliega una alerta cada mes del año empezando por la primera posición del array la posición 0.
+// Despliega una alerta por cada mes del año empezando por la primera posición del array la posición 0.
 alert(meses[0]);
 alert(meses[1]);
 alert(meses[2]);
